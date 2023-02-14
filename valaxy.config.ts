@@ -17,32 +17,32 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: 'Aoike青之池',
       cloud: {
         enable: true,
       },
     },
 
     pages: [
-      {
-        name: '我的小伙伴们',
-        url: '/links/',
-        icon: 'i-ri-genderless-line',
-        color: 'dodgerblue',
-      },
-      {
-        name: '喜欢的女孩子',
-        url: '/girls/',
-        icon: 'i-ri-women-line',
-        color: 'hotpink',
-      },
+      // {
+      //   name: '我的小伙伴们',
+      //   url: '/links/',
+      //   icon: 'i-ri-genderless-line',
+      //   color: 'dodgerblue',
+      // },
+      // {
+      //   name: '喜欢的女孩子',
+      //   url: '/girls/',
+      //   icon: 'i-ri-women-line',
+      //   color: 'hotpink',
+      // },
     ],
 
     footer: {
-      since: 2016,
+      since: 2022,
       beian: {
         enable: true,
-        icp: '苏ICP备17038157号',
+        icp: '京ICP备2022004147号',
       },
     },
   },
