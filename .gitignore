@@ -16,3 +16,6 @@ node_modules
 *.log
 
 components.d.ts
+
+.hugo_build.lock
+resources/_gen/
