@@ -1,14 +1,14 @@
 ---
 title: "记一次Manjaro KDE美化"
 date: 2020-10-13T22:47:00+08:00
-draft: false
-categories:
-    - Logs
+excerpt_type: text
 tags:
     - Linux
     - Manjaro
     - KDE
 ---
+
+<!-- more -->
 
 <img src="http://www.azurice.com:7777/api/v3/file/get/83/Screenshot_20201108_093301.png?sign=7V2NFjmfQCyWzYBRDkev9yTkUDlCOFZmUt2U1pya_MQ%3D%3A0" alt="Screenshot_20201108_093301" style="zoom:20%;" /><img src="http://www.azurice.com:7777/api/v3/file/get/87/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_plasmashell_20201108123817.png?sign=O8Fr26-sNMjzfW_WypXO8dASPEjF7qRuQVzJKhKMwyY%3D%3A0" alt="深度截图_plasmashell_20201108123817" style="zoom:20%;" />
 

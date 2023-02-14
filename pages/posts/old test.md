@@ -1,13 +1,13 @@
 ---
 title: "old test"
 date: 2021-02-08T23:17:14+08:00
-draft: true
-categories:
-    - Logs
+excerpt_type: text
 tags:
     - testTag1
     - testTag2
 ---
+
+<!-- more -->
 
 目前正在折腾博客，迁移了部分文章，有一些图片链接还未修复。
 接下来要做的：

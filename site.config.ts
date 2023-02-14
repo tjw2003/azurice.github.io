@@ -4,10 +4,14 @@ export default defineSiteConfig({
   url: 'https://azurice.github.io/',
   lang: 'zh-CN',
   title: 'Aoike青之池',
+  subtitle: '「留存诗意于心，恪守初心于路」',
   author: {
     name: 'Azur冰弦',
+    status: {
+      emoji: '🫠',
+    }
   },
-  description: '「留存诗意于心，恪守初心于路」',
+  description: '',
   social: [ // TODO: Configure social accounts
     {
       name: 'RSS', // TODO: 折腾明白这个 RSS
@@ -91,6 +95,11 @@ export default defineSiteConfig({
 
   search: {
     enable: true,
+    type: 'fuse'
+  },
+
+  comment: {
+    enable: false
   },
 
   sponsor: { // TODO:

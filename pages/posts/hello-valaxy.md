@@ -1,8 +1,8 @@
 ---
-title: Hello, Valaxy!
+title: "Hello, Valaxy!"
 date: 2022-04-01
 updated: 2022-04-01
-categories: Valaxy 笔记
+excerpt_type: text
 tags:
   - valaxy
   - 笔记
@@ -15,6 +15,8 @@ Next Generation Static Blog Framework.
 
 Write your first post!
 
+<!-- more -->
 ## Usage
 
 Modify `valaxy.config.ts` to custom your blog.
+

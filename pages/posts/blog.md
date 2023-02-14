@@ -1,9 +1,7 @@
 ---
 title: "博客迁移"
 date: 2023-02-08T23:17:14+08:00
-draft: false
-categories:
-    - Logs
+excerpt_type: text
 tags:
     - testTag1
     - testTag2

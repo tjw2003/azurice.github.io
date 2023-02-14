@@ -1,12 +1,12 @@
 ---
 title: "Golang 接口"
 date: 2023-02-14T10:24:39+08:00
-draft: false
-categories:
-  - 笔记
+excerpt_type: text
 tags:
   - Golang
 ---
+
+<!-- more -->
 
 在 go1.18 以前，接口的定义是 **方法的集合**。
 而在 go1.18 及之后，其定义就变更为了 **类型的集合**。
