@@ -17,7 +17,7 @@ Git 是一个 content-addressable 文件系统，其核心其实是一个简单�
 
 为了存储不同的信息，Git 对象主要有三种：`blob`、`tree` 和 `commit`
 
-- 
+- blob 对象用于存储文件内容数据。
 - `tree` 对象：存储目录结构
 - `commit` 对象：存储提交信息
 
